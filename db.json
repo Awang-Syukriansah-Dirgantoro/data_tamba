@@ -2,29 +2,18 @@
     "posts": [
         {
             "id": 1,
-            "title": "Tambal ban"
+            "title": "Tambal ban",
+            "deskripsi": "Merupakan layanan tambal ban biasa panggilan dengan harga Rp.10000 / lubang"
         },
         {
             "id": 2,
-            "title": "Tambal ban tubless"
+            "title": "Tambal ban tubless",
+            "deskripsi": "Merupakan layanan tambal ban tubless panggilan dengan harga Rp.20000 / lubang"
         },
         {
             "id": 3,
-            "title": "Tambah angin"
-        }
-    ],
-    "deskripsi": [
-        {
-            "id": 1,
-            "title": "Merupakan layanan tambal ban biasa panggilan dengan harga Rp.10000 / lubang"
-        },
-        {
-            "id": 2,
-            "title": "Merupakan layanan tambal ban tubless panggilan dengan harga Rp.20000 / lubang"
-        },
-        {
-            "id": 3,
-            "title": "Merupakan layanan tambah angin panggilan dengan harga Rp.5000 / ban"
+            "title": "Tambah angin",
+            "deskripsi": "Merupakan layanan tambah angin panggilan dengan harga Rp.5000 / ban"
         }
     ]
 }
